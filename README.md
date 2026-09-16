@@ -4,6 +4,9 @@
 **Duration:** 14 Days  
 **Scope:** Extremadura, Central Sierras, Eastern Portugal, and "Los Pueblos Más Bonitos de España"
 
+**Interactive Route Map:** [View & Open in Google My Maps](https://www.google.com/maps/d/u/0/embed?mid=1d97xX5R5LR8IYNB0pvA6Eji8f9xJFMU&ehbc&ll=40.72606819739686%2C-2.956507787829815&z=7)
+
+
 ---
 
 ## 📌 Places & Landmarks Master Registry (Ordered by Distance from El Masnou)
