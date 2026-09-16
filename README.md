@@ -47,9 +47,6 @@
 | **[Castelo Branco](https://www.google.com/maps/search/?api=1&query=Castelo+Branco+Portugal)** | Portugal | ~1,000 km | N/A | Baroque gardens of Episcopal Palace | Active |
 | **[Elvas](https://www.google.com/maps/search/?api=1&query=Elvas+Portugal)** | Portugal | ~1,010 km | N/A | Star fortress and Amoreira Aqueduct | Active |
 | **[Olivenza](https://www.google.com/maps/search/?api=1&query=Olivenza+Badajoz+Spain)** | Badajoz | ~1,030 km | N/A | Historic border town with Manueline style | Active[span_26](start_span)[span_26](end_span) |
-| **[Évora](https://www.google.com/maps/search/?api=1&query=Evora+Portugal)** | Portugal | ~1,090 km | N/A | UNESCO city (Excluded from route) | Excluded |
-| **[Sintra](https://www.google.com/maps/search/?api=1&query=Sintra+Portugal)** | Portugal | ~1,260 km | N/A | Palaces & coastal hills (Excluded from route) | Excluded[span_27](start_span)[span_27](end_span) |
-
 ---
 
 ## 🗓️ 14-Day Detailed Itinerary
